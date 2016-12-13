@@ -64,6 +64,7 @@ namespace FinalUnitTest
         public void PassedTestExample()
         {
             Assert.AreEqual(true, true);
+            Assert.AreEqual(true, true);
         }
 
     }
