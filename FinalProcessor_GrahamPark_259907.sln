@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProcessor_GrahamPark_259907", "FinalProcessor_GrahamPark_259907\FinalProcessor_GrahamPark_259907.csproj", "{5A6393C8-4115-46DB-9415-2F3DB94E983A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalUnitTest", "FinalUnitTest\FinalUnitTest.csproj", "{B3185B4A-9769-4F59-9D99-9ABCC148832C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6393C8-4115-46DB-9415-2F3DB94E983A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6393C8-4115-46DB-9415-2F3DB94E983A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6393C8-4115-46DB-9415-2F3DB94E983A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6393C8-4115-46DB-9415-2F3DB94E983A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3185B4A-9769-4F59-9D99-9ABCC148832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3185B4A-9769-4F59-9D99-9ABCC148832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3185B4A-9769-4F59-9D99-9ABCC148832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3185B4A-9769-4F59-9D99-9ABCC148832C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

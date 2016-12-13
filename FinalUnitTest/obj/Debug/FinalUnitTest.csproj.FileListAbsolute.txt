@@ -1,0 +1,8 @@
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\bin\Debug\FinalUnitTest.dll
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\bin\Debug\FinalUnitTest.pdb
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\bin\Debug\FinalProcessor_GrahamPark_259907.exe
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\bin\Debug\FinalProcessor_GrahamPark_259907.pdb
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\obj\Debug\FinalUnitTest.csprojResolveAssemblyReference.cache
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\obj\Debug\FinalUnitTest.dll
+D:\FinalStuff(DONTDELETE)\FinalProcessor_GrahamPark_259907\FinalUnitTest\obj\Debug\FinalUnitTest.pdb
